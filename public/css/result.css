@@ -1,0 +1,25 @@
+body {
+    background-color: #fff; /* خلفية بيضاء */
+    font-family: Arial, sans-serif; /* خط عام للنص */
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333; /* لون خلفية العنوان */
+    color: #fff; /* لون النص في العنوان */
+    text-align: center;
+    padding: 20px 0;
+}
+ul {
+    list-style-type: none; /* إزالة النقاط من قائمة النتائج */
+    padding: 0;
+}
+li {
+    border: 1px solid #ddd; /* إضافة حدود للعناصر */
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f9f9f9; /* لون خلفية العناصر */
+}
+h1 {
+    text-align: center; /* جعل العنوان في الوسط */
+}
